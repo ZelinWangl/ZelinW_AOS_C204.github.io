@@ -13,7 +13,7 @@
 
 ## Code
 
-[Code Notebook: Temperature Forecast](notebooks/code.ipynb)
+[Code Notebook: Temperature Forecast](https://colab.research.google.com/drive/1jpZoqRudpf4rYkAGJxZyy96iQ_RTExBu?usp=sharing)
 
 ---
 
