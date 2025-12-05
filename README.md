@@ -9,7 +9,7 @@
 
 ## Report
 
-[Machine learning in forecasting daily temperature](reports/analysis-report.pdf)
+[Machine learning in forecasting daily temperature](reports/AOS_C204_Report_Zelin.pdf)
 
 ## Code
 
